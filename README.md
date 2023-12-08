@@ -1,2 +1,2 @@
-# Primeiro_Postagem
- Primeiro Repositório 
+# Logical JavaScript
+ First Repository in the course Git and GitHub
