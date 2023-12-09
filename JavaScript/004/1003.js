@@ -1,4 +1,4 @@
-// Importação de biblioteca
+// Importação de Biblioteca
 const readline = require('readline');
 
 // Criação de interface
